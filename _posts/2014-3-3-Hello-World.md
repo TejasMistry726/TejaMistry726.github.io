@@ -81,7 +81,7 @@ Before you begin, ensure that you have the following installed:
      bash
      docker run -d --name frontend-container --network=three-tier-network -p 80:80 frontend
      
-     ![Alt Text](https://raw.githubusercontent.com/DhanviBhimani/DhanviBhimani.github.io/master/images/img12.png)
+     ![Alt Text](https://raw.githubusercontent.com/TejasMistry726/TejaMistry726.github.io/master/images/dock%20img16%201.png)
 4. Access the Application:
 
    Open your favorite browser and visit [http://localhost:80](http://localhost:80). Enjoy exploring the MERN stack application!
